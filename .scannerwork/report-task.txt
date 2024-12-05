@@ -1,0 +1,6 @@
+projectKey=dataflow-python
+serverUrl=https://fgos.ngrok.io
+serverVersion=10.8.0.100206
+dashboardUrl=https://fgos.ngrok.io/dashboard?id=dataflow-python
+ceTaskId=723b61e3-810e-420a-b0eb-7bd991dc84e8
+ceTaskUrl=https://fgos.ngrok.io/api/ce/task?id=723b61e3-810e-420a-b0eb-7bd991dc84e8
