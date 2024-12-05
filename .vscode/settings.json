@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "https-fgos-ngrok-app-",
+        "projectKey": "fabio-gos-sonarsource_dataflow_execution_python_5e76c8fb-b1e7-460b-abeb-681a62ee5c70"
+    }
+}
