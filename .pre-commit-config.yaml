@@ -3,4 +3,4 @@ repos:
     rev: v2.32.0.9670
     hooks:
     -   id: sonar-secrets
-        stages: [pre-commit]
+        stages: [pre-commit, push]
